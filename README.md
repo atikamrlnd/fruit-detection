@@ -15,7 +15,7 @@ This project consists of two parts:
 ├── training.ipynb        # Notebook for model training (Google Colab)
 ├── inference.py           # Inference script (detection + pop-up window)
 ├── best.pt                 # Trained model weights
-├── campurjpeg.jpeg         # Sample test image
+├── apple.jpeg         # Sample test image
 └── README.md
 ```
 
@@ -27,11 +27,14 @@ In the training notebook, the dataset is pulled directly from **Roboflow** (work
 
 Classes detected:
 - Apple
-- Orange
 - Banana
+- Grapes
+- Kiwi
+- Mango
+- Orange
 - Pineapple
-- Peach
-- Guava
+- Sugerapple
+- Watermelon
 
 ---
 

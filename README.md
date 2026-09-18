@@ -15,7 +15,7 @@ This project consists of two parts:
 ├── training.ipynb        # Notebook for model training (Google Colab)
 ├── inference.py           # Inference script (detection + pop-up window)
 ├── best.pt                 # Trained model weights
-├── apple.jpeg         # Sample test image
+├── apple.jpeg              # Sample test image
 └── README.md
 ```
 

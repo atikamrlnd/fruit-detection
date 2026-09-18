@@ -58,8 +58,8 @@ Classes detected:
 ### 1. Clone the repo & create a virtual environment (optional but recommended)
 
 ```bash
-git clone <repo-url>
-cd <repo-folder>
+git clone <https://github.com/atikamrlnd/fruit-detection.git>
+cd <fruit-detection>
 python -m venv venv
 source venv/bin/activate   # Windows: venv\Scripts\activate
 ```
